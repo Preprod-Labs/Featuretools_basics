@@ -1,4 +1,5 @@
-# DIY on Featuretools_basics from PreProd Corp OpnSrc
+# DIY on using Featuretools framework
+# Initiative of PreProd Opnsrc
 
 Switch to branch " explore_tool " and go through the notebooks
 
